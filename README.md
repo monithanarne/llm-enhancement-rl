@@ -24,26 +24,3 @@ understanding, and adaptive learning behavior.
 
 ## Author
 Monitha Narne — [LinkedIn](https://www.linkedin.com/in/monitha-narne-6ab966284/)
-
-Click "Commit changes"
-
-Upload your project files (code, notebooks, reports):
-
-Click "Add file" → "Upload files"
-Upload whatever you have — .py files, Jupyter notebooks (.ipynb), any PDFs or reports
-Commit with message: Add capstone project files
-
-
-✨ Step 4 — Polish Your GitHub Profile
-
-Go to your profile → click "Edit profile"
-
-Bio: Frontend Developer | React.js | Aspiring Full-Stack | CS @ SRM University-AP 2026
-Location: Andhra Pradesh, India
-Website: paste your https://monithanarne.github.io/personal-portfolio link
-
-
-Pin both repos to your profile — click "Customize your pins" on your profile page and select both repos
-
-
-Once done, your GitHub profile will show a live portfolio site + a real AI/ML capstone project — that combination looks genuinely impressive to both frontend and AI-track recruiters! 🚀Sonnet 4.6 Low
